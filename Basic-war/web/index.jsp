@@ -12,6 +12,9 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+    <Center>
+        <h1>AlphaDevs</h1>
+        <h3>The Team that Gives you the best</h3>
+    </Center>
     </body>
 </html>
